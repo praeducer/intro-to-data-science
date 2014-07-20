@@ -1,7 +1,7 @@
 intro_to_data_science
 =====================
 
-Coursera: Introduction to Data Science by Bill Howe. https://class.coursera.org/datasci-002
+Assignments from my Coursera course: Introduction to Data Science by Bill Howe. https://class.coursera.org/datasci-002
 
 Introduction to Data Science
 =============================
@@ -14,22 +14,26 @@ Commerce and research are being transformed by data-driven discovery and predict
 
 Course Syllabus
 ---------------
-Part 0: Introduction 
-Examples, data science articulated, history and context, technology landscape
-Part 1: Data Manipulation at Scale
-Databases and the relational algebra  
-Parallel databases, parallel query processing, in-database analytics 
-MapReduce, Hadoop, relationship to databases, algorithms, extensions, languages  
-Key-value stores and NoSQL; tradeoffs of SQL and NoSQL
-Part 2: Analytics 
-Topics in statistical modeling: basic concepts, experiment design, pitfalls
-Topics in machine learning: supervised learning (rules, trees, forests, nearest neighbor, regression), optimization (gradient descent and variants), unsupervised learning
-Part 3: Communicating Results 
-Visualization, data products, visual data analytics  
-Provenance, privacy, ethics, governance 
-Part 4: Special Topics
-Graph Analytics: structure, traversals, analytics, PageRank, community detection, recursive queries, semantic web
-Guest Lectures
+* Part 0: Introduction 
+  * Examples, data science articulated, history and context, technology landscape
+
+* Part 1: Data Manipulation at Scale
+  * Databases and the relational algebra  
+  * Parallel databases, parallel query processing, in-database analytics 
+  * MapReduce, Hadoop, relationship to databases, algorithms, extensions, languages  
+  * Key-value stores and NoSQL; tradeoffs of SQL and NoSQL
+
+* Part 2: Analytics 
+  * Topics in statistical modeling: basic concepts, experiment design, pitfalls
+  * Topics in machine learning: supervised learning (rules, trees, forests, nearest neighbor, regression), optimization (gradient descent and variants), unsupervised learning
+
+* Part 3: Communicating Results 
+  * Visualization, data products, visual data analytics  
+  * Provenance, privacy, ethics, governance
+
+* Part 4: Special Topics
+  * Graph Analytics: structure, traversals, analytics, PageRank, community detection, recursive queries, semantic web
+  * Guest Lectures
 
 Recommended Background
 ----------------------
