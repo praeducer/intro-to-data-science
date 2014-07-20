@@ -1,0 +1,70 @@
+
+-------------------------------------------------------
+
+Hello, handsome!
+
+-------------------------------------------------------
+
+DATA:
+
+---
+1: 0
+---
+	
+
+
+---
+2: 0
+---
+	Le escribi, espero que me entienda..
+
+
+---
+3: asshole -4 = -4
+---
+	asshole 
+
+
+---
+4: attacking -1, benefits +2 = 1
+---
+	attacking benefits
+
+
+---
+5: can't stand -3 = -3
+---
+	can't stand
+
+
+---
+6: dickhead -4 = -4
+---
+	What a dickhead! 
+	
+
+---
+7: shit -4, does not work -3 = -7
+---
+	This shit does not work! 
+
+
+---
+8: short-sighted -2 = -2
+---
+	short-sighted
+
+
+---
+9: son-of-a-bitch -5, some kind 0, prblm -2 = -7
+---
+	That son-of-a-bitch! That's some kind of prblm! 
+
+
+---
+10: vibrant 3, wonderful 4, beautiful 3 = 10
+
+---
+	What a vibrant, wonderful, beautiful, couple of kittens.
+
+
