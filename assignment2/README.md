@@ -1,5 +1,9 @@
 Problem 1: Inspecting the Reuters Dataset; Basic Relational Algebra
 ====================================================================
+For most of these problems, you will use the reuters.db database consisting of a single table:
+```
+frequency(docid, term, count)
+```
 (a) select:
 -----------
 Write a query that is equivalent to the following relational algebra expression.
